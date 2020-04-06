@@ -1,0 +1,48 @@
+{
+  	"playlist": [
+  		{"Name": "Jazz in Paris",
+  		"type": "Playlist",
+  		"Description": "Media Right Productions",
+  		"image": "https://aghanyna.com/english/wp-content/uploads/2018/07/%D8%A7%D9%84%D8%A8%D9%88%D9%85-%D8%B9%D9%85%D8%B1%D9%88-%D8%AF%D9%8A%D8%A7%D8%A8-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%83%D9%84-%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A-2018-.png",
+      "tracks":["songname": "Jazz in Paris",
+  		         "artist": "Jazz & Blues",
+  		         "hit": "Jazz & Blues",
+  	          	"image": "https://aghanyna.com/english/wp-content/uploads/2018/07/%D8%A7%D9%84%D8%A8%D9%88%D9%85-%D8%B9%D9%85%D8%B1%D9%88-%D8%AF%D9%8A%D8%A7%D8%A8-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%83%D9%84-%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A-2018-.png",
+  		          "songid": 1,
+  		          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"]
+                },
+                {"Name": "Jazz in Paris",
+  		"type": "Playlist",
+  		"Description": "Media Right Productions",
+  		"image": "https://aghanyna.com/english/wp-content/uploads/2018/07/%D8%A7%D9%84%D8%A8%D9%88%D9%85-%D8%B9%D9%85%D8%B1%D9%88-%D8%AF%D9%8A%D8%A7%D8%A8-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%83%D9%84-%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A-2018-.png",
+      "tracks":["songname": "Jazz in Paris",
+  		         "artist": "Jazz & Blues",
+  		         "hit": "Jazz & Blues",
+  	          	"image": "https://aghanyna.com/english/wp-content/uploads/2018/07/%D8%A7%D9%84%D8%A8%D9%88%D9%85-%D8%B9%D9%85%D8%B1%D9%88-%D8%AF%D9%8A%D8%A7%D8%A8-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%83%D9%84-%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A-2018-.png",
+  		          "songid": 2,
+  		          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"]
+                },{"Name": "Jazz in Paris",
+  		"type": "Playlist",
+  		"Description": "Media Right Productions",
+  		"image": "https://aghanyna.com/english/wp-content/uploads/2018/07/%D8%A7%D9%84%D8%A8%D9%88%D9%85-%D8%B9%D9%85%D8%B1%D9%88-%D8%AF%D9%8A%D8%A7%D8%A8-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%83%D9%84-%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A-2018-.png",
+      "tracks":["songname": "Jazz in Paris",
+  		         "artist": "Jazz & Blues",
+  		         "hit": "Jazz & Blues",
+  	          	"image": "https://aghanyna.com/english/wp-content/uploads/2018/07/%D8%A7%D9%84%D8%A8%D9%88%D9%85-%D8%B9%D9%85%D8%B1%D9%88-%D8%AF%D9%8A%D8%A7%D8%A8-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%83%D9%84-%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A-2018-.png",
+  		          "songid": 3,
+  		          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"]
+                },{"Name": "Jazz in Paris",
+  		"type": "Playlist",
+  		"Description": "Media Right Productions",
+  		"image": "https://aghanyna.com/english/wp-content/uploads/2018/07/%D8%A7%D9%84%D8%A8%D9%88%D9%85-%D8%B9%D9%85%D8%B1%D9%88-%D8%AF%D9%8A%D8%A7%D8%A8-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%83%D9%84-%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A-2018-.png",
+      "tracks":["songname": "Jazz in Paris",
+  		         "artist": "Jazz & Blues",
+  		         "hit": "Jazz & Blues",
+  	          	"image": "https://aghanyna.com/english/wp-content/uploads/2018/07/%D8%A7%D9%84%D8%A8%D9%88%D9%85-%D8%B9%D9%85%D8%B1%D9%88-%D8%AF%D9%8A%D8%A7%D8%A8-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%83%D9%84-%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A-2018-.png",
+  		          "songid": 4,
+  		          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"]
+                }
+                ]
+                
+ 
+  }
